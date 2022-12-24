@@ -1,5 +1,5 @@
 # aop-part2-chapter06
-
+clone
 ## 강의자료
 [리소스 다운로드](https://drive.google.com/drive/folders/1ZcARo4Dm89YIdVflTIPuNUJ3BXVPBoM0?usp=sharing)
 
